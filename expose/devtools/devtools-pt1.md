@@ -23,4 +23,4 @@ Thu, 15 Sep 2022 22:44:30 GMT
 application/json; charset=utf-8
 
 ## Question 9
-The function fetchData in the expose.js file.
+The function fetchData in the expose.js file made the request.

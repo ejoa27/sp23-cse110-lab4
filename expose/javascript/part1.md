@@ -1,9 +1,9 @@
 ## Question 1
-20
+Line 9 prints "values added: 20".
 ## Question 2
-20
+Line 13 prints "values added: 20".
 ## Question 3
-20
+Line 9 prints "values added: 20".
 ## Question 4
 This returns an error because result can only be accessed within the if statement block, not anywhere else.
 ## Question 5
